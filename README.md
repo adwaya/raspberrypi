@@ -1,8 +1,8 @@
 #RaspberryPi
-The Raspberry Pi is a tiny and affordable computer that you can use to learn programming and practical projects.
+-The Raspberry Pi is a tiny and affordable computer that you can use to learn programming and practical projects.
 
 ##Installing OS on RaspberryPi
-RaspberryPi supports 
+
 Grab a SD card and format it using the application, the application can be downloaded from `https://www.sdcard.org/downloads/formatter_4/`
 
 *NOOBS* is an easy operating system installer which contains Raspbian. It also provides a selection of alternative operating systems which are then downloaded from the internet and installed.
